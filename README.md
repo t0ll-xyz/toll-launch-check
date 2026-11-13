@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/toll-header.svg" width="100%" alt="launch check: a v4 hook that refuses bundled launches"/></p>
+
 # launch check for uniswap v4 hooks
 
 one view call a hook makes before a buy: was this launch bundled, or held by a wallet ring?
